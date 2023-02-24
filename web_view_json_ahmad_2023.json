@@ -13,11 +13,11 @@
 	  
 	  
       "start Activity Inter": "admob",
-      "start Activity Native": "admob",
+      "start Activity Native": ".",
       "start Activity Banner": "admob",
 	  
       "main Activity Inter": "admob",
-      "main Activity Native": "admob",
+      "main Activity Native": ".",
       "main Activity Banner": "admob",
 	  
       "web view banner 1": "admob",
@@ -51,7 +51,7 @@
 	 "web view url 3": "https://www.wikipedia.org/",
 	 
 	 
-	 "title": "More Apps:",
+	 "title": "",
 	 
 	 "show app 1": false,
 	 "app name 1": "Talking Tom",
