@@ -53,19 +53,19 @@
 	 
 	 "title": "More Apps:",
 	 
-	 "show app 1": true,
+	 "show app 1": false,
 	 "app name 1": "Talking Tom",
      "app icon 1": "https://play-lh.googleusercontent.com/GmTrRvFLOg9415aIWoxXQMpsgucGvmu7RT_GaXn4bX_OdMjO5W41de1I33ZGOB2HGw=w240-h480-rw",
      "app URL 1": "com.outfit7.talkingtomgoldrun",
 	 "app descr 1": "good talking tom game for your phone. Get it now!",
 	  
-	  "show app 2": true,
+	  "show app 2": false,
 	  "app name 2": "Football League 2023",
       "app icon 2": "https://play-lh.googleusercontent.com/izV_I9vKtC_WezgFtJkv3F8gZkzCQGUnBXT9GmpsLvoiXbzOgC2BmUnLnGackCmlpw=w240-h480-rw",
       "app URL 2": "com.football.soccer.league",
 	  "app descr 2": "good football app for your phone. Get it now!",
 	  
-	  "show app 3": true,
+	  "show app 3": false,
 	  "app name 3": "Angry Birds",
       "app icon 3": "https://play-lh.googleusercontent.com/nDXdk5wKKYXgqyGYAOn-RlL71bFoIEI2PlVKfi1-7A3n5p89FqRGpVXjFWBbDKoP-A=s512-rw",
       "app URL 3": "com.rovio.baba",
