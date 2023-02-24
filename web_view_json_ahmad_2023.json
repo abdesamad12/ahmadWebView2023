@@ -39,7 +39,7 @@
 	 
 	 
 	 "show web view 1": true,	 
-	 "show web view 2": false,	 
+	 "show web view 2": true,	 
 	 "show web view 3": true,
 	 
 	 "web view text 1": "facebook.com",
@@ -59,7 +59,7 @@
      "app URL 1": "com.outfit7.talkingtomgoldrun",
 	 "app descr 1": "good talking tom game for your phone. Get it now!",
 	  
-	  "show app 2": false,
+	  "show app 2": true,
 	  "app name 2": "Football League 2023",
       "app icon 2": "https://play-lh.googleusercontent.com/izV_I9vKtC_WezgFtJkv3F8gZkzCQGUnBXT9GmpsLvoiXbzOgC2BmUnLnGackCmlpw=w240-h480-rw",
       "app URL 2": "com.football.soccer.league",
