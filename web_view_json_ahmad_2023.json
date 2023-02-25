@@ -32,11 +32,11 @@
 	 
 	 "web view text 1": "drive",
 	 "web view text 2": "youtube",
-	 "web view text 3": "gmail",
+	 "web view text 3": "yahoo",
 	 
 	 "web view url 1": "https://drive.google.com/drive/",
 	 "web view url 2": "https://www.youtube.com/",
-	 "web view url 3": "https://mail.google.com/",
+	 "web view url 3": "https://login.yahoo.com/",
 	 
 	 
       "show CPA 1": true,
