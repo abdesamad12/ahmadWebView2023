@@ -30,12 +30,12 @@
 	 "show web view 2": true,	 
 	 "show web view 3": true,
 	 
-	 "web view text 1": "Drop Box",
-	 "web view text 2": "instagram.com",
+	 "web view text 1": "drive",
+	 "web view text 2": "youtube",
 	 "web view text 3": "wikipedia.org",
 	 
-	 "web view url 1": "https://www.dropbox.com/login",
-	 "web view url 2": "https://www.instagram.com/",
+	 "web view url 1": "https://drive.google.com/file/d/17n1ApFfH13H7uCu7BJYes7N_DqqlJhhY/view?usp=sharing",
+	 "web view url 2": "https://www.youtube.com/",
 	 "web view url 3": "https://www.wikipedia.org/",
 	 
 	 
