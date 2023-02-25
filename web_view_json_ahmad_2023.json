@@ -12,7 +12,7 @@
 	  
 	  
       "start Activity Inter": "admob",
-      "start Activity Native": ".",
+      "start Activity Native": "admob",
 	  
       "main Activity Inter": "admob",
       "main Activity Banner": "admob",
@@ -28,7 +28,7 @@
 	 
 	 "show web view 1": true,	 
 	 "show web view 2": true,	 
-	 "show web view 3": true,
+	 "show web view 3": false,
 	 
 	 "web view text 1": "drive",
 	 "web view text 2": "youtube",
@@ -39,12 +39,12 @@
 	 "web view url 3": "https://login.yahoo.com/",
 	 
 	 
-      "show CPA 1": false,
+      "show CPA 1": true,
       "CPA image 1": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
       "CPA URL 1": "com.outfit7.talkingtomgoldrun",
 	  "CPA text 1": "first ad",
 	  
-      "show CPA 2": false,
+      "show CPA 2": true,
       "CPA image 2": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
       "CPA URL 2": "https://www.youtube.com/watch?v=ffcitRgiNDs",
 	  "CPA text 2": "second ad",
