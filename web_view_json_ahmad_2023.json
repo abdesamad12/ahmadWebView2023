@@ -12,9 +12,9 @@
 	  
 	  
       "start Activity Inter": "admob",
-      "start Activity Native": ".",
+      "start Activity Native": "admob",
 	  
-      "main Activity Inter": ".",
+      "main Activity Inter": "admob",
       "main Activity Banner": "admob",
 	  
       "web Activity Banner": "admob",
@@ -29,7 +29,7 @@
 	
 	 
 	 "show web view 1": true,	 
-	 "show web view 2": true,	 
+	 "show web view 2": false,	 
 	 "show web view 3": false,
 	 
 	 "web view text 1": "facebook.com",
