@@ -19,18 +19,18 @@
 	  
       "web Activity Banner": ".",
 	  
-      "clicks to stop showing banner ad": 100,
-      "time unit banner": "hour",
+      "clicks to stop showing banner ad": 2,
+      "time unit banner": "minute",
       "time banner": 1,
 	  
-      "clicks to stop showing native ad": 100,
-      "time unit native": "second",
-      "time native": 40,
+      "clicks to stop showing native ad": 2,
+      "time unit native": "minute",
+      "time native": 1,
 	
 	 
 	 "show web view 1": true,	 
 	 "show web view 2": true,	 
-	 "show web view 3": true,
+	 "show web view 3": false,
 	 
 	 "web view text 1": "facebook.com",
 	 "web view text 2": "instagram.com",
@@ -41,12 +41,12 @@
 	 "web view url 3": "https://www.wikipedia.org/",
 	 
 	 
-      "show CPA 1": false,
+      "show CPA 1": true,
       "CPA image 1": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
       "CPA URL 1": "com.outfit7.talkingtomgoldrun",
 	  "CPA text 1": "first ad",
 	  
-      "show CPA 2": false,
+      "show CPA 2": true,
       "CPA image 2": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
       "CPA URL 2": "https://www.youtube.com/watch?v=ffcitRgiNDs",
 	  "CPA text 2": "second ad",
