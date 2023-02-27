@@ -14,29 +14,31 @@
       "start Activity Inter": "admob",
       "start Activity Native": "admob",
 	  
-      "main Activity Inter": "admob",
+      "main Activity Inter": ".",
       "main Activity Banner": "admob",
 	  
-      "clicks to stop showing banner ad": 2,
-      "time unit banner": "minute",
+      "web Activity Banner": ".",
+	  
+      "clicks to stop showing banner ad": 100,
+      "time unit banner": "hour",
       "time banner": 1,
 	  
-      "clicks to stop showing native ad": 2,
-      "time unit native": "minute",
-      "time native": 1,
+      "clicks to stop showing native ad": 100,
+      "time unit native": "second",
+      "time native": 40,
 	
 	 
 	 "show web view 1": true,	 
 	 "show web view 2": true,	 
-	 "show web view 3": false,
+	 "show web view 3": true,
 	 
-	 "web view text 1": "drive",
-	 "web view text 2": "youtube",
-	 "web view text 3": "yahoo",
+	 "web view text 1": "facebook.com",
+	 "web view text 2": "instagram.com",
+	 "web view text 3": "wikipedia.org",
 	 
-	 "web view url 1": "https://drive.google.com/drive/",
-	 "web view url 2": "https://try.typeform.com/landingpage/?gclsrc=aw.ds&&tf_campaign=africa-generic-landingpage-english-combined_18081895156&tf_source=google&tf_medium=paid&tf_content=141395731858_617156175998&tf_term=landing%20page%20online&tf_dv=c&tf_matchtype=p&tf_adposition=&tf_location=1009984&gclid=Cj0KCQiAgOefBhDgARIsAMhqXA4Hrz3Rc7OVU6kiup1de1zuYrkddqyiAHDyIEsjWHBp6DTzHQlPaxkaAoPvEALw_wcB&gclsrc=aw.ds",
-	 "web view url 3": "https://login.yahoo.com/",
+	 "web view url 1": "https://web.facebook.com/",
+	 "web view url 2": "https://www.instagram.com/",
+	 "web view url 3": "https://www.wikipedia.org/",
 	 
 	 
       "show CPA 1": true,
