@@ -12,7 +12,7 @@
 	  
 	  
       "start Activity Inter": "admob",
-      "start Activity Native": "admob",
+      "start Activity Native": ".",
 	  
       "main Activity Inter": ".",
       "main Activity Banner": "admob",
